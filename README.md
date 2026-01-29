@@ -1,3 +1,8 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18420197.svg)](https://doi.org/10.5281/zenodo.18420197)
+
+
+
 # Job Market Skill Trends using NLP
 
 This project analyzes **in-demand skills in data and analytics job postings** using **Natural Language Processing (NLP)**.
