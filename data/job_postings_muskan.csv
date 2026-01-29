@@ -1,0 +1,7 @@
+job_title,job_description,location,role_group,skills
+Data Analyst,"We are looking for a Data Analyst with strong skills in SQL, Excel, Tableau, and Python for data cleaning and dashboarding.",USA,Data Analyst,"SQL, Excel, Tableau, Python"
+Data Scientist,"Seeking a Data Scientist with experience in Python, ML models, NLP techniques, and cloud platforms like AWS or Azure.",Canada,Data Scientist,"Python, Machine Learning, NLP, AWS, Azure"
+Machine Learning Engineer,"ML Engineer needed with expertise in model deployment, TensorFlow, PyTorch, MLOps, Kubernetes, and Python.",USA,ML Engineer,"TensorFlow, PyTorch, Kubernetes, MLOps, Python"
+Business Analyst,"Business Analyst role requiring strong communication, requirement gathering, documentation, SQL, and stakeholder management.",UK,Business Analyst,"Communication, SQL, Documentation, Stakeholder Management"
+Data Analyst,"Analyze datasets using Python, PowerBI, Excel; create insights and automate reporting dashboards.",India,Data Analyst,"Python, PowerBI, Excel"
+Data Scientist,"Build machine learning models, perform EDA, work with big data tools, and apply NLP for text analytics.",USA,Data Scientist,"Python, NLP, Machine Learning, Big Data"
